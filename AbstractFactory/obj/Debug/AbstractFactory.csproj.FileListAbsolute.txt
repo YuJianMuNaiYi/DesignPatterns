@@ -1,0 +1,10 @@
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\AbstractFactory\bin\Debug\AbstractFactory.dll
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\AbstractFactory\obj\Debug\AbstractFactory.dll
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
+F:\01-Demo\09-Net\01Pattern\AbstractFactory\bin\Debug\AbstractFactory.dll
+F:\01-Demo\09-Net\01Pattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
+F:\01-Demo\09-Net\01Pattern\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01Pattern\AbstractFactory\obj\Debug\AbstractFactory.dll
+F:\01-Demo\09-Net\01Pattern\AbstractFactory\obj\Debug\AbstractFactory.pdb

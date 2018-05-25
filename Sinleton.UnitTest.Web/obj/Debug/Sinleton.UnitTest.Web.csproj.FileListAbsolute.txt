@@ -1,0 +1,11 @@
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\Sinleton.UnitTest.Web\bin\Debug\Sinleton.UnitTest.Web.dll
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\Sinleton.UnitTest.Web\bin\Debug\Sinleton.UnitTest.Web.pdb
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\Sinleton.UnitTest.Web\obj\Debug\Sinleton.UnitTest.Web.csprojResolveAssemblyReference.cache
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\Sinleton.UnitTest.Web\obj\Debug\Sinleton.UnitTest.Web.dll
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\Sinleton.UnitTest.Web\obj\Debug\Sinleton.UnitTest.Web.pdb
+F:\01-Demo\09-Net\01Pattern\Sinleton.UnitTest.Web\bin\Debug\Sinleton.UnitTest.Web.dll
+F:\01-Demo\09-Net\01Pattern\Sinleton.UnitTest.Web\bin\Debug\Sinleton.UnitTest.Web.pdb
+F:\01-Demo\09-Net\01Pattern\Sinleton.UnitTest.Web\obj\Debug\Sinleton.UnitTest.Web.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01Pattern\Sinleton.UnitTest.Web\obj\Debug\Sinleton.UnitTest.Web.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01Pattern\Sinleton.UnitTest.Web\obj\Debug\Sinleton.UnitTest.Web.dll
+F:\01-Demo\09-Net\01Pattern\Sinleton.UnitTest.Web\obj\Debug\Sinleton.UnitTest.Web.pdb

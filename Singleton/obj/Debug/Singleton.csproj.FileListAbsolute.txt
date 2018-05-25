@@ -1,0 +1,10 @@
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\Singleton\bin\Debug\Singleton.dll
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\Singleton\bin\Debug\Singleton.pdb
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\Singleton\obj\Debug\Singleton.dll
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\Singleton\obj\Debug\Singleton.pdb
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+F:\01-Demo\09-Net\01Pattern\Singleton\bin\Debug\Singleton.dll
+F:\01-Demo\09-Net\01Pattern\Singleton\bin\Debug\Singleton.pdb
+F:\01-Demo\09-Net\01Pattern\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01Pattern\Singleton\obj\Debug\Singleton.dll
+F:\01-Demo\09-Net\01Pattern\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,17 @@
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\FactoryMethod.UnitTest\bin\Debug\FactoryMethod.UnitTest.dll
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\FactoryMethod.UnitTest\bin\Debug\FactoryMethod.UnitTest.pdb
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.dll
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.pdb
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.csprojResolveAssemblyReference.cache
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\FactoryMethod.UnitTest\bin\Debug\FactoryMethod.dll
+E:\模式-工程化实现及扩展\练习\MuNaiYiPattern\MuNaiYiPattern\FactoryMethod.UnitTest\bin\Debug\FactoryMethod.pdb
+F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\bin\Debug\FactoryMethod.UnitTest.dll
+F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\bin\Debug\FactoryMethod.UnitTest.pdb
+F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\bin\Debug\FactoryMethod.dll
+F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\bin\Debug\FactoryMethod.pdb
+F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.csproj.CopyComplete
+F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.dll
+F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.pdb
