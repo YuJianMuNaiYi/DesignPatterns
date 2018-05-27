@@ -18,3 +18,14 @@ F:\01-Demo\09-Net\01Pattern\Adapter.UnitTest\obj\Debug\Adapter.UnitTest.csproj.C
 F:\01-Demo\09-Net\01Pattern\Adapter.UnitTest\obj\Debug\Adapter.UnitTest.csproj.CopyComplete
 F:\01-Demo\09-Net\01Pattern\Adapter.UnitTest\obj\Debug\Adapter.UnitTest.dll
 F:\01-Demo\09-Net\01Pattern\Adapter.UnitTest\obj\Debug\Adapter.UnitTest.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter.UnitTest\bin\Debug\Adapter.UnitTest.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter.UnitTest\bin\Debug\Adapter.UnitTest.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter.UnitTest\bin\Debug\AdapterPattern.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter.UnitTest\bin\Debug\FactoryMethod.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter.UnitTest\bin\Debug\AdapterPattern.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter.UnitTest\bin\Debug\FactoryMethod.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter.UnitTest\obj\Debug\Adapter.UnitTest.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter.UnitTest\obj\Debug\Adapter.UnitTest.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter.UnitTest\obj\Debug\Adapter.UnitTest.csproj.CopyComplete
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter.UnitTest\obj\Debug\Adapter.UnitTest.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter.UnitTest\obj\Debug\Adapter.UnitTest.pdb

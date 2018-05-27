@@ -1,0 +1,19 @@
+@startuml 组合模式
+scale 1.5
+
+interface IObjectWithName{
+}
+
+interface IOrganization{
+    + Children:IList<IObjectWithName>
+}
+
+interface IEmployee
+
+IObjectWithName <|-- IOrganization
+IObjectWithName <|-- IEmployee
+
+IOrganization o-- IObjectWithName
+
+
+@enduml

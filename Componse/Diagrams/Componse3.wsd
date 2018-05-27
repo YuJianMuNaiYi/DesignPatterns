@@ -1,0 +1,25 @@
+@startuml 组合模式
+scale 1.5
+
+interface IComponent{
+    + Operation()
+}
+
+interface IClient
+
+interface ILeaf
+interface IComposite{
+    + Add()
+    + Remove()
+    + GetChild()
+    + Other()
+}
+
+IClient --> IComponent
+
+IComponent <|--ILeaf
+IComponent <|--IComposite
+
+IComposite o--IComponent
+
+@enduml

@@ -1,0 +1,12 @@
+F:\01-Demo\09-Net\01-DesignPatterns\Componse.UnitTest\bin\Debug\Componse.UnitTest.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Componse.UnitTest\bin\Debug\Componse.UnitTest.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Componse.UnitTest\bin\Debug\Componse.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Componse.UnitTest\bin\Debug\nunit.framework.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Componse.UnitTest\bin\Debug\Componse.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Componse.UnitTest\bin\Debug\nunit.framework.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Componse.UnitTest\bin\Debug\nunit.framework.xml
+F:\01-Demo\09-Net\01-DesignPatterns\Componse.UnitTest\obj\Debug\Componse.UnitTest.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Componse.UnitTest\obj\Debug\Componse.UnitTest.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Componse.UnitTest\obj\Debug\Componse.UnitTest.csproj.CopyComplete
+F:\01-Demo\09-Net\01-DesignPatterns\Componse.UnitTest\obj\Debug\Componse.UnitTest.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Componse.UnitTest\obj\Debug\Componse.UnitTest.pdb

@@ -1,0 +1,6 @@
+F:\01-Demo\09-Net\01-DesignPatterns\Componse\bin\Debug\Componse.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Componse\bin\Debug\Componse.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Componse\obj\Debug\Componse.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Componse\obj\Debug\Componse.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Componse\obj\Debug\Componse.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Componse\obj\Debug\Componse.pdb

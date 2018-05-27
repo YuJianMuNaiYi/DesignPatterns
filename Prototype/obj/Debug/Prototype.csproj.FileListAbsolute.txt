@@ -9,3 +9,9 @@ F:\01-Demo\09-Net\01Pattern\Prototype\obj\Debug\Prototype.csprojAssemblyReferenc
 F:\01-Demo\09-Net\01Pattern\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
 F:\01-Demo\09-Net\01Pattern\Prototype\obj\Debug\Prototype.dll
 F:\01-Demo\09-Net\01Pattern\Prototype\obj\Debug\Prototype.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Prototype\bin\Debug\Prototype.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Prototype\obj\Debug\Prototype.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Prototype\obj\Debug\Prototype.pdb

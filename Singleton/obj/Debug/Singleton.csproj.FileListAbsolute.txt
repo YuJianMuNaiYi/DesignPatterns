@@ -8,3 +8,9 @@ F:\01-Demo\09-Net\01Pattern\Singleton\bin\Debug\Singleton.pdb
 F:\01-Demo\09-Net\01Pattern\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
 F:\01-Demo\09-Net\01Pattern\Singleton\obj\Debug\Singleton.dll
 F:\01-Demo\09-Net\01Pattern\Singleton\obj\Debug\Singleton.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton\bin\Debug\Singleton.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton\obj\Debug\Singleton.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton\obj\Debug\Singleton.pdb

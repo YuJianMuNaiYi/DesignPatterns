@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sources", "Sources", "{D2990C7A-48E2-428D-BDE2-BA1BAB231613}"
 EndProject
@@ -60,6 +60,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "Adapter\Adapter\AdapterPattern.csproj", "{EF76353F-ACEF-4C9D-81D2-B7E9A97CD9CB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter.UnitTest", "Adapter.UnitTest\Adapter.UnitTest.csproj", "{435A86F7-C00E-41AA-B091-7E497E6D796C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "010-Compose", "010-Compose", "{97CB29CB-0DBF-44B0-82C3-F1A815EEC0F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "010-Compose", "010-Compose", "{C6805BE8-0CBA-4301-AABC-4962FCD4B551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Componse", "Componse\Componse.csproj", "{2D9339F4-F87C-4012-A262-31FAF5279324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Componse.UnitTest", "Componse.UnitTest\Componse.UnitTest.csproj", "{1F9ABDF6-DEDB-4FB9-AE49-0CA4C1C79785}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -127,6 +135,14 @@ Global
 		{435A86F7-C00E-41AA-B091-7E497E6D796C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{435A86F7-C00E-41AA-B091-7E497E6D796C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{435A86F7-C00E-41AA-B091-7E497E6D796C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9339F4-F87C-4012-A262-31FAF5279324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9339F4-F87C-4012-A262-31FAF5279324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9339F4-F87C-4012-A262-31FAF5279324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9339F4-F87C-4012-A262-31FAF5279324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F9ABDF6-DEDB-4FB9-AE49-0CA4C1C79785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9ABDF6-DEDB-4FB9-AE49-0CA4C1C79785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9ABDF6-DEDB-4FB9-AE49-0CA4C1C79785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9ABDF6-DEDB-4FB9-AE49-0CA4C1C79785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -159,71 +175,12 @@ Global
 		{6FCAFC15-0C14-4ED1-B2C7-02B0D3148D21} = {EACD1B96-FF8A-4CC9-9D79-78A82BCA534A}
 		{EF76353F-ACEF-4C9D-81D2-B7E9A97CD9CB} = {8E626325-8F84-4BDC-998E-7697A91157F3}
 		{435A86F7-C00E-41AA-B091-7E497E6D796C} = {6FCAFC15-0C14-4ED1-B2C7-02B0D3148D21}
+		{97CB29CB-0DBF-44B0-82C3-F1A815EEC0F2} = {D2990C7A-48E2-428D-BDE2-BA1BAB231613}
+		{C6805BE8-0CBA-4301-AABC-4962FCD4B551} = {EACD1B96-FF8A-4CC9-9D79-78A82BCA534A}
+		{2D9339F4-F87C-4012-A262-31FAF5279324} = {97CB29CB-0DBF-44B0-82C3-F1A815EEC0F2}
+		{1F9ABDF6-DEDB-4FB9-AE49-0CA4C1C79785} = {C6805BE8-0CBA-4301-AABC-4962FCD4B551}
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 16
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://munaiyi.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = AbstractFactory.UnitTest\\AbstractFactory.UnitTest.csproj
-		SccProjectTopLevelParentUniqueName1 = MuNaiYiPattern.sln
-		SccProjectName1 = AbstractFactory.UnitTest
-		SccLocalPath1 = AbstractFactory.UnitTest
-		SccProjectUniqueName2 = AbstractFactory\\AbstractFactory.csproj
-		SccProjectTopLevelParentUniqueName2 = MuNaiYiPattern.sln
-		SccProjectName2 = AbstractFactory
-		SccLocalPath2 = AbstractFactory
-		SccProjectUniqueName3 = Builder.UnitTest\\Builder.UnitTest.csproj
-		SccProjectTopLevelParentUniqueName3 = MuNaiYiPattern.sln
-		SccProjectName3 = Builder.UnitTest
-		SccLocalPath3 = Builder.UnitTest
-		SccProjectUniqueName4 = Builder\\Builder.csproj
-		SccProjectTopLevelParentUniqueName4 = MuNaiYiPattern.sln
-		SccProjectName4 = Builder
-		SccLocalPath4 = Builder
-		SccProjectUniqueName5 = Common.UnitTest\\Common.UnitTest.csproj
-		SccProjectTopLevelParentUniqueName5 = MuNaiYiPattern.sln
-		SccProjectName5 = Common.UnitTest
-		SccLocalPath5 = Common.UnitTest
-		SccProjectUniqueName6 = Common\\Common.csproj
-		SccProjectTopLevelParentUniqueName6 = MuNaiYiPattern.sln
-		SccProjectName6 = Common
-		SccLocalPath6 = Common
-		SccProjectUniqueName7 = FactoryMethod.UnitTest\\FactoryMethod.UnitTest.csproj
-		SccProjectTopLevelParentUniqueName7 = MuNaiYiPattern.sln
-		SccProjectName7 = FactoryMethod.UnitTest
-		SccLocalPath7 = FactoryMethod.UnitTest
-		SccProjectUniqueName8 = FactoryMethod\\FactoryMethod.csproj
-		SccProjectTopLevelParentUniqueName8 = MuNaiYiPattern.sln
-		SccProjectName8 = FactoryMethod
-		SccLocalPath8 = FactoryMethod
-		SccProjectUniqueName9 = Prototype.UnitTest\\Prototype.UnitTest.csproj
-		SccProjectTopLevelParentUniqueName9 = MuNaiYiPattern.sln
-		SccProjectName9 = Prototype.UnitTest
-		SccLocalPath9 = Prototype.UnitTest
-		SccProjectUniqueName10 = Prototype\\Prototype.csproj
-		SccProjectTopLevelParentUniqueName10 = MuNaiYiPattern.sln
-		SccProjectName10 = Prototype
-		SccLocalPath10 = Prototype
-		SccProjectUniqueName11 = Singleton.UnitTest\\Singleton.UnitTest.csproj
-		SccProjectTopLevelParentUniqueName11 = MuNaiYiPattern.sln
-		SccProjectName11 = Singleton.UnitTest
-		SccLocalPath11 = Singleton.UnitTest
-		SccProjectUniqueName12 = Singleton\\Singleton.csproj
-		SccProjectTopLevelParentUniqueName12 = MuNaiYiPattern.sln
-		SccProjectName12 = Singleton
-		SccLocalPath12 = Singleton
-		SccProjectUniqueName13 = Sinleton.UnitTest.Web\\Sinleton.UnitTest.Web.csproj
-		SccProjectTopLevelParentUniqueName13 = MuNaiYiPattern.sln
-		SccProjectName13 = Sinleton.UnitTest.Web
-		SccLocalPath13 = Sinleton.UnitTest.Web
-		SccProjectUniqueName14 = Adapter\\Adapter\\AdapterPattern.csproj
-		SccProjectTopLevelParentUniqueName14 = MuNaiYiPattern.sln
-		SccProjectName14 = Adapter/Adapter
-		SccLocalPath14 = Adapter\\Adapter
-		SccProjectUniqueName15 = Adapter.UnitTest\\Adapter.UnitTest.csproj
-		SccProjectTopLevelParentUniqueName15 = MuNaiYiPattern.sln
-		SccProjectName15 = Adapter.UnitTest
-		SccLocalPath15 = Adapter.UnitTest
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BFE8BBF-F763-44AA-A15D-99FCBE980779}
 	EndGlobalSection
 EndGlobal

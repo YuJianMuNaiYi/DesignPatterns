@@ -9,3 +9,9 @@ F:\01-Demo\09-Net\01Pattern\Common.UnitTest\obj\Debug\Common.UnitTest.csprojAsse
 F:\01-Demo\09-Net\01Pattern\Common.UnitTest\obj\Debug\Common.UnitTest.csproj.CoreCompileInputs.cache
 F:\01-Demo\09-Net\01Pattern\Common.UnitTest\obj\Debug\Common.UnitTest.dll
 F:\01-Demo\09-Net\01Pattern\Common.UnitTest\obj\Debug\Common.UnitTest.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Common.UnitTest\bin\Debug\Common.UnitTest.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Common.UnitTest\bin\Debug\Common.UnitTest.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Common.UnitTest\obj\Debug\Common.UnitTest.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Common.UnitTest\obj\Debug\Common.UnitTest.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Common.UnitTest\obj\Debug\Common.UnitTest.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Common.UnitTest\obj\Debug\Common.UnitTest.pdb

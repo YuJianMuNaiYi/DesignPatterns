@@ -15,3 +15,9 @@ F:\01-Demo\09-Net\01Pattern\Builder\obj\Debug\Builder.csprojAssemblyReference.ca
 F:\01-Demo\09-Net\01Pattern\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
 F:\01-Demo\09-Net\01Pattern\Builder\obj\Debug\Builder.dll
 F:\01-Demo\09-Net\01Pattern\Builder\obj\Debug\Builder.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Builder\bin\Debug\Builder.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Builder\bin\Debug\Builder.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Builder\obj\Debug\Builder.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Builder\obj\Debug\Builder.pdb

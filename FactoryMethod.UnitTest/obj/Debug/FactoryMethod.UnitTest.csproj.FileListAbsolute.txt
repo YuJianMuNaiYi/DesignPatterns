@@ -15,3 +15,13 @@ F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitT
 F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.csproj.CopyComplete
 F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.dll
 F:\01-Demo\09-Net\01Pattern\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\FactoryMethod.UnitTest\bin\Debug\FactoryMethod.UnitTest.dll
+F:\01-Demo\09-Net\01-DesignPatterns\FactoryMethod.UnitTest\bin\Debug\FactoryMethod.UnitTest.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\FactoryMethod.UnitTest\bin\Debug\FactoryMethod.dll
+F:\01-Demo\09-Net\01-DesignPatterns\FactoryMethod.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\01-Demo\09-Net\01-DesignPatterns\FactoryMethod.UnitTest\bin\Debug\FactoryMethod.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01-DesignPatterns\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01-DesignPatterns\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.csproj.CopyComplete
+F:\01-Demo\09-Net\01-DesignPatterns\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.dll
+F:\01-Demo\09-Net\01-DesignPatterns\FactoryMethod.UnitTest\obj\Debug\FactoryMethod.UnitTest.pdb

@@ -8,3 +8,9 @@ F:\01-Demo\09-Net\01Pattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
 F:\01-Demo\09-Net\01Pattern\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
 F:\01-Demo\09-Net\01Pattern\AbstractFactory\obj\Debug\AbstractFactory.dll
 F:\01-Demo\09-Net\01Pattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.dll
+F:\01-Demo\09-Net\01-DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01-DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01-DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.dll
+F:\01-Demo\09-Net\01-DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

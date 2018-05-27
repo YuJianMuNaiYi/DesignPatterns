@@ -9,3 +9,9 @@ F:\01-Demo\09-Net\01Pattern\Adapter\Adapter\obj\Debug\AdapterPattern.csprojAssem
 F:\01-Demo\09-Net\01Pattern\Adapter\Adapter\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
 F:\01-Demo\09-Net\01Pattern\Adapter\Adapter\obj\Debug\AdapterPattern.dll
 F:\01-Demo\09-Net\01Pattern\Adapter\Adapter\obj\Debug\AdapterPattern.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter\Adapter\bin\Debug\AdapterPattern.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter\Adapter\bin\Debug\AdapterPattern.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter\Adapter\obj\Debug\AdapterPattern.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter\Adapter\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter\Adapter\obj\Debug\AdapterPattern.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Adapter\Adapter\obj\Debug\AdapterPattern.pdb

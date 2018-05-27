@@ -25,3 +25,13 @@ F:\01-Demo\09-Net\01Pattern\Builder.UnitTest\obj\Debug\Builder.UnitTest.csproj.C
 F:\01-Demo\09-Net\01Pattern\Builder.UnitTest\obj\Debug\Builder.UnitTest.csproj.CopyComplete
 F:\01-Demo\09-Net\01Pattern\Builder.UnitTest\obj\Debug\Builder.UnitTest.dll
 F:\01-Demo\09-Net\01Pattern\Builder.UnitTest\obj\Debug\Builder.UnitTest.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Builder.UnitTest\bin\Debug\Builder.UnitTest.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Builder.UnitTest\bin\Debug\Builder.UnitTest.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Builder.UnitTest\bin\Debug\Builder.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Builder.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Builder.UnitTest\bin\Debug\Builder.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Builder.UnitTest\obj\Debug\Builder.UnitTest.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Builder.UnitTest\obj\Debug\Builder.UnitTest.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Builder.UnitTest\obj\Debug\Builder.UnitTest.csproj.CopyComplete
+F:\01-Demo\09-Net\01-DesignPatterns\Builder.UnitTest\obj\Debug\Builder.UnitTest.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Builder.UnitTest\obj\Debug\Builder.UnitTest.pdb

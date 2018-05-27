@@ -19,3 +19,15 @@ F:\01-Demo\09-Net\01Pattern\Singleton.UnitTest\obj\Debug\Singleton.UnitTest.cspr
 F:\01-Demo\09-Net\01Pattern\Singleton.UnitTest\obj\Debug\Singleton.UnitTest.csproj.CopyComplete
 F:\01-Demo\09-Net\01Pattern\Singleton.UnitTest\obj\Debug\Singleton.UnitTest.dll
 F:\01-Demo\09-Net\01Pattern\Singleton.UnitTest\obj\Debug\Singleton.UnitTest.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton.UnitTest\bin\Debug\Singleton.UnitTest.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton.UnitTest\bin\Debug\Singleton.UnitTest.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton.UnitTest\bin\Debug\Common.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton.UnitTest\bin\Debug\Singleton.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton.UnitTest\bin\Debug\Common.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton.UnitTest\bin\Debug\Singleton.pdb
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton.UnitTest\obj\Debug\Singleton.UnitTest.csprojAssemblyReference.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton.UnitTest\obj\Debug\Singleton.UnitTest.csproj.CoreCompileInputs.cache
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton.UnitTest\obj\Debug\Singleton.UnitTest.csproj.CopyComplete
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton.UnitTest\obj\Debug\Singleton.UnitTest.dll
+F:\01-Demo\09-Net\01-DesignPatterns\Singleton.UnitTest\obj\Debug\Singleton.UnitTest.pdb
