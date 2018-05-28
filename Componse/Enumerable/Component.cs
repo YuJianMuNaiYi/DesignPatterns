@@ -24,6 +24,7 @@ namespace Componse.Enumerable
 
         public virtual IEnumerable<Component> Enumerate(IMatchRule rule)
         {
+            //短路方式,力求减少遍历代价
             if (rule==null || rule.IsMatch(this))
             {
                 yield return this;

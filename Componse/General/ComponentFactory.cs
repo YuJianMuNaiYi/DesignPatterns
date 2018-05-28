@@ -13,7 +13,7 @@ namespace Componse.General
         {
             var instance = new T
             {
-                Name = name
+                Name = name //setter方式注入名称
             };
 
             return instance;

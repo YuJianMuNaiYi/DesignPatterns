@@ -49,6 +49,7 @@
     <Compile Include="TestComponse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestEnumerate.cs" />
+    <Compile Include="TestXml.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

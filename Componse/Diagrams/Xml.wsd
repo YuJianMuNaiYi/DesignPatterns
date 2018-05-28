@@ -1,0 +1,22 @@
+@startuml 组合模式
+scale 1.5
+
+abstract class ConfigurationElement  {
+
+}
+
+abstract class ConfigurationSection{
+
+}
+
+abstract class ConfigurationElementCollection{
+
+}
+
+ConfigurationElement <|--ConfigurationSection
+ConfigurationElement <|--ConfigurationElementCollection
+
+ConfigurationElementCollection o-- ConfigurationElement
+
+
+@enduml
