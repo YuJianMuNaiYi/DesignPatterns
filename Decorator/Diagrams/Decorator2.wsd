@@ -1,0 +1,36 @@
+@startuml 装饰模式
+skinparam classAttributeIconSize 0
+scale 1.5
+
+interface IText{
+    + Content:string{get;}
+}
+
+interface IDecorator{
+
+}
+
+class Text{
+
+}
+
+class FontColorDecorator{
+    + Color:string
+
+    + Content():string
+}
+
+class BoldDecorator{
+    + Bold()
+    + Content():string
+}
+
+IText <|.. Text
+IText <|-- IDecorator :is a
+
+IDecorator o-- IText :has a
+
+IDecorator <|.. FontColorDecorator
+IDecorator <|.. BoldDecorator
+
+@enduml

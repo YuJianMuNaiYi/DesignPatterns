@@ -1,0 +1,36 @@
+@startuml 装饰模式
+skinparam classAttributeIconSize 0
+scale 1.5
+
+interface IComponent{
+    + Operation()
+}
+
+interface IDecorator{
+
+}
+
+class ConcreteComponent{
+
+}
+
+class ConcreteDecoratorA{
+    - addedState
+    + Operation()
+}
+
+class ConcreteDecoratorB{
+    + Operation()
+    Decorator:Operation()
+    AddedBehavior()
+}
+
+IComponent <|.. ConcreteComponent
+IComponent <|-- IDecorator :is a
+
+IDecorator o-- IComponent :has a
+
+IDecorator <|.. ConcreteDecoratorA
+IDecorator <|.. ConcreteDecoratorB
+
+@enduml
