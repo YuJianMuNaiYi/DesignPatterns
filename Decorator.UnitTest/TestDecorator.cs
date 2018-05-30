@@ -21,6 +21,7 @@ namespace MuNaiYiPattern.Decorator.UnitTest
             text=new ColorDecorator(text);
             Assert.AreEqual("<color>Hello<color/>", text.Content);
 
+            //通过装饰,撤销某些操作
             text=new BlockAllDecorator(text);
             Assert.IsTrue(string.IsNullOrEmpty(text.Content));
         }

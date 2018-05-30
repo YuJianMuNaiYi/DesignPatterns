@@ -2,6 +2,7 @@
 {
     /// <summary>
     /// 具体装饰类
+    /// 属于"口罩"
     /// </summary>
     public class BlockAllDecorator:DecoratorBase
     {

@@ -2,6 +2,7 @@
 {
     /// <summary>
     /// 具体装饰类
+    /// 属于"马甲"
     /// </summary>
     public class ColorDecorator:DecoratorBase
     {

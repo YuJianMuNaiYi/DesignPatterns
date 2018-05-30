@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace MuNaiYiPattern.Decorator.Classic
+﻿namespace MuNaiYiPattern.Decorator.Classic
 {
     public class TextObject:IText
     {

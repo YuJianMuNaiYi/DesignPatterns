@@ -2,9 +2,10 @@
 {
     public abstract class DecoratorBase:IDecorator
     {
-        protected IText target;
+        //has a
+        protected readonly IText target;
 
-        public DecoratorBase(IText target)
+        protected DecoratorBase(IText target)
         {
             this.target = target;
         }
