@@ -1,13 +1,13 @@
 ﻿using System;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MuNaiYiPattern.Decorator.Tags.Way1;
-using NUnit.Framework;
 
 namespace MuNaiYiPattern.Decorator.UnitTest
 {
-    [TestFixture]
+    [TestClass]
     public class TestTagWay1
     {
-        [Test]
+        [TestMethod]
         public void Test()
         {
             var uesr = CustomProxy<User>.Create(new User());

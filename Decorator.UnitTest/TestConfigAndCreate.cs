@@ -1,13 +1,13 @@
-﻿using MuNaiYiPattern.Decorator.Classic;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using MuNaiYiPattern.Decorator.Classic;
 using MuNaiYiPattern.Decorator.ConfigAndCreate;
-using NUnit.Framework;
 
 namespace MuNaiYiPattern.Decorator.UnitTest
 {
-    [TestFixture]
+    [TestClass]
     public class TestConfigAndCreate
     {
-        [Test]
+        [TestMethod]
         public void Test()
         {
             //修改后的IText仅仅依赖于一个Builder类型

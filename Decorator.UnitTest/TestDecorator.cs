@@ -1,12 +1,12 @@
-﻿using MuNaiYiPattern.Decorator.Classic;
-using NUnit.Framework;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using MuNaiYiPattern.Decorator.Classic;
 
 namespace MuNaiYiPattern.Decorator.UnitTest
 {
-    [TestFixture]
+    [TestClass]
     public class TestDecorator
     {
-        [Test]
+        [TestMethod]
         public void Test()
         {
             //建立对象,并对其进行两次装饰
