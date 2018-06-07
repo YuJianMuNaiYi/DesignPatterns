@@ -14,7 +14,7 @@
     - ## [享元模式](Flyweight/README.md)     
     - ## [代理模式](Proxy/README.md)
 - ## 行为型模式 - 算法、控制流的对象化操作
-    - ## [职责链模式]()
+    - ## [职责链模式](ChainOfResponsibilty/README.md)
     - ## [模板方法模式]()    
     - ## [解释器模式]()    
     - ## [命令模式]()    
