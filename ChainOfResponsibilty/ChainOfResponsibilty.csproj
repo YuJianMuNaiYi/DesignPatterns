@@ -48,6 +48,18 @@
     <Compile Include="Classic\PurchaseType.cs" />
     <Compile Include="Classic\RegularHandler.cs" />
     <Compile Include="Classic\Request.cs" />
+    <Compile Include="NonChain\DiscountPurchaseHandler.cs" />
+    <Compile Include="NonChain\DiscountReturnHandler.cs" />
+    <Compile Include="NonChain\HandlerBase.cs" />
+    <Compile Include="NonChain\HandlerCorFactory.cs" />
+    <Compile Include="NonChain\Ihandler.cs" />
+    <Compile Include="NonChain\InternalHandler.cs" />
+    <Compile Include="NonChain\MailPurchaseHandler.cs" />
+    <Compile Include="NonChain\MailReturnHandler.cs" />
+    <Compile Include="NonChain\PurchaseType.cs" />
+    <Compile Include="NonChain\RegularHandler.cs" />
+    <Compile Include="NonChain\Request.cs" />
+    <Compile Include="NonChain\RequestOptions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
